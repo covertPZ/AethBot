@@ -1,0 +1,4 @@
+.venv/
+.env
+gspread_sa.json
+app/__pycache__/
